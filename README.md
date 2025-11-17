@@ -1,13 +1,6 @@
 
 # Gojira
 
-![GitHub repo size](https://img.shields.io/github/repo-size/evanch98/jira-clone-nextjs)
-![GitHub stars](https://img.shields.io/github/stars/evanch98/jira-clone-nextjs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/evanch98/jira-clone-nextjs?style=social)
-
-<br />
-November, 2024. <br />
-
 Full-stack Gojira project built by using Next JS 14, React, TypeScript, Shadcn UI, Tailwind CSS, Hono, and Appwrite.
 
 
@@ -23,20 +16,14 @@ Full-stack Gojira project built by using Next JS 14, React, TypeScript, Shadcn U
 
 These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
-1. **Clone the repository:**
 
-```bash
-git clone https://github.com/evanch98/jira-clone-nextjs.git
-cd your-repo-name
-```
-
-2. **Install the required dependencies:**
+1. **Install the required dependencies:**
 
 ```bash
 bun install
 ```
 
-3. **Configure environmental variables:**
+2. **Configure environmental variables:**
    Create a `.env.local` file in the project root and set the necessary environment variables.
 
 ```
@@ -55,15 +42,15 @@ NEXT_PUBLIC_APPWRITE_IMAGES_BUCKET_ID=
 NEXT_APPWRITE_KEY=
 ```
 
-4. **Run the development server:**
+3. **Run the development server:**
 
 ```bash
 bun dev
 ```
 
-5. **Start building and customizing your Gojira!**
+4. **Start building and customizing your Gojira!**
 
-6. **Demo Account**
+5. **Demo Account**
 
    Email: evan@mail.com
 
@@ -79,17 +66,3 @@ bun dev
 - [Shadcn UI](https://ui.shadcn.com/)
 - [Hono](https://hono.dev/)
 
-## Acknowledgements
-
-- [@hello-pangea/dnd](https://www.npmjs.com/package/@hello-pangea/dnd)
-- [class-variance-authority](https://www.npmjs.com/package/class-variance-authority)
-- [clsx](https://www.npmjs.com/package/clsx)
-- [date-fns](https://www.npmjs.com/package/date-fns)
-- [lucide-react](https://www.npmjs.com/package/lucide-react)
-- [nuqs](https://www.npmjs.com/package/nuqs)
-- [react-big-calendar](https://www.npmjs.com/package/react-big-calendar)
-- [react-day-picker](https://www.npmjs.com/package/react-day-picker)
-- [react-icons](https://www.npmjs.com/package/react-icons)
-- [sonner](https://www.npmjs.com/package/sonner)
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge)
-- [zod](https://www.npmjs.com/package/zod)
